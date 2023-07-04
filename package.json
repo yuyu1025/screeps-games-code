@@ -1,0 +1,7 @@
+{
+  "name": "alpha-capture_the_flag",
+  "version": "1.0.0",
+  "dependencies": {
+    "arena": "^0.0.2"
+  }
+}
